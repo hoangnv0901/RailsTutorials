@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Hướng dẫn Ruby On Rails
+## "hello, world!"
+Đây là ứng dụng đầu tiên cho 
+[* Hướng dẫn Ruby on Rails *] (http://www.railstutorial.org/) 
+của [Michael Hartl] (http://www.michaelhartl.com/). Chào thế giới!
